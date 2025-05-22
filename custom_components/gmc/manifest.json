@@ -1,0 +1,13 @@
+{
+    "domain": "gmc",
+    "name": "GMC Radiation Counter",
+    "codeowners": ["@hpmartins"],
+    "config_flow": true,
+    "dependencies": [],
+    "documentation": "https://github.com/hpmartins/gmc-ha-component",
+    "iot_class": "local_polling",
+    "issue_tracker": "https://github.com/hpmartins/gmc-ha-component/issues",
+    "requirements": ["pyserial-asyncio-fast"],
+    "version": "0.0.1"
+  }
+  
